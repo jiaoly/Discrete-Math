@@ -12,6 +12,9 @@
 
 ### 研究对象和方法
 
+
+![RL-process](https://raw.githubusercontent.com/jiaoly/RL/main/Pictures/RL.png)
+
 有限维线性时不变动态系统（a finite dimensional linear time invariant (FDLTI) dynamical system），具有齐次性、线性和时不变特性
 
 使用线型常微分方程组描述系统

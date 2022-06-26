@@ -15,23 +15,10 @@
 
 ![RL-process](https://raw.githubusercontent.com/jiaoly/RL/main/Pictures/RL.png)
 
+![gif/arbitrary_padding_no_strides.gif](https://github.com/vdumoulin/conv_arithmetic/blob/master/gif/arbitrary_padding_no_strides.gif)
+
+
 有限维线性时不变动态系统（a finite dimensional linear time invariant (FDLTI) dynamical system），具有齐次性、线性和时不变特性
-
-使用线型常微分方程组描述系统
-
-$ \dot{x}  = Ax+Bu $
-
-$ y  =  Cx+Du $
-
-其中$x(t_0) = x_0 $为状态变量，$ u $表示系统输入， $y$表示系统输出。
-
-对应经典控制理论，两边取Laplace变换:
-
-$ sX(s) = A X(s) + B U(s)$
-
-$ Y(s) = C X(s) + D U(s)$
-
-传递函数 $ G(s) = \frac{Y(s)}{U(s)} = (C(sI-A)^{-1}+D)$
 
 
 ### 五类系统性分析

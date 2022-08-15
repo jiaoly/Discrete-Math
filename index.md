@@ -14,14 +14,47 @@
 
 ![RL-process](https://raw.githubusercontent.com/jiaoly/RL/main/Pictures/RL.png)
 
+#### Bellman 
+
+'''
+\begin{align} U(s_0\,s_1\,s_2\,\cdots) &= \sum_{t=0}^{\infty}{\gamma^tR(s_t)} \quad 0\le\gamma<1 \\    &\le \sum_{t=0}^{\infty }{\gamma^tR_{max}} = \frac{R_{max}}{1-\gamma}    \end{align}
+'''
 
 
 ### Model-based & Model-free
 
 
 
-### Value-based & Policy-based
+### Policy-based methods
 
+#### Basic
+
+#### REINFORCE
+
+
+### Value-based methods
+
+Advantage: More data efficiency than policy-based RL
+
+Disadvantages: have difficulties in high dimensions/ continuous action space
+
+#### Q-learning
+
+#### SARSA
+
+#### DQN (continuous inputs)
+
+
+
+
+
+### On-Policy & Off-Policy
+
+#### Importance sampling
+
+#### Proximal Policy Optimization
+
+### 
 
 
 

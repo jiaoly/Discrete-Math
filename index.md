@@ -10,18 +10,35 @@
     </script>
 </head>
 
-### 研究对象和方法
-
+### Markov Decision Process
 
 ![RL-process](https://raw.githubusercontent.com/jiaoly/RL/main/Pictures/RL.png)
 
-![gif/arbitrary_padding_no_strides.gif](https://github.com/vdumoulin/conv_arithmetic/blob/master/gif/arbitrary_padding_no_strides.gif)
 
 
-有限维线性时不变动态系统（a finite dimensional linear time invariant (FDLTI) dynamical system），具有齐次性、线性和时不变特性
+### Model-based & Model-free
 
 
-### 五类系统性分析
+
+### Value-based & Policy-based
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### 稳定性 Stability
 

@@ -23,6 +23,7 @@
 
 ### Model-based & Model-free
 
+<a href="/Pictures/RL.png" download>
 
 
 ### Policy-based methods

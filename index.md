@@ -23,7 +23,7 @@
 
 ### Model-based & Model-free
 
-<a href="/Pictures/RL.png" download>
+<a href="/Pictures/RL.png" download>Download My Resume</a>
 
 
 ### Policy-based methods
